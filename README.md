@@ -33,6 +33,10 @@
 
   * 괜찮은 논문 선택 후 구현 예정
 
+* ### 기타) Python tutorial
+
+  * numpy, scipy, matplotlib 등 ...
+
 * ### Reference 
 
   cs229, cs231n, edwith의 다양한 딥러닝 강의, Kaist 문일철 교수님 강의 등 
