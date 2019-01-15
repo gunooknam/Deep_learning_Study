@@ -1,5 +1,5 @@
 # Deep_learning_Study
-####  딥러닝 공부를 하면서 Study를 위한 코드 
+####  딥러닝 Study를 하면서 작성한  코드
 
 * ### Week2 
 
