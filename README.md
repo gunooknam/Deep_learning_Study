@@ -39,4 +39,4 @@
 
 * ### Reference 
 
-  cs229, cs231n, edwith의 다양한 딥러닝 강의, Kaist 문일철 교수님 강의 등 
+  cs229, cs231n, cs20, edwith의 다양한 딥러닝 강의, Kaist 문일철 교수님 강의 등 
